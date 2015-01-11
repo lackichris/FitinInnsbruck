@@ -8,3 +8,5 @@ Unser Plan ist es außerdem, Google Maps zu verwenden, um den Benutzern zu zeige
 Außerdem haben wir vor, von openweathermap Wetterdaten zu importieren, um je nach Wetterlage unterschiedliche Sportarten anzubieten. 
 
 Vorschau: https://www.fluidui.com/editor/live/preview/p_hQW6DR4U0iEUxA1mOsZAXQ6FRkEZ76ab.1420801291027
+
+--
